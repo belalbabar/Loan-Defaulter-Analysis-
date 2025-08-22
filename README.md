@@ -80,9 +80,7 @@ The dataset contains customer information with the following key features:
 4. Execute the EDA and modeling scripts
 5. Visualize the results and feature importance plots
 
----
 
-**Note:** This project focuses on **analysis and understanding patterns** rather than deploying a production-level predictive model.
 
 
 Do you want me to do that?
